@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Time viewer",
+  "action": {
+    "default_popup": ""
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"]
+}
